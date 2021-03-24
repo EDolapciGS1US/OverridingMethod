@@ -8,6 +8,5 @@ namespace OverridingMethod
 {
     class GitTest
     {
-        // Holy here
     }
 }
