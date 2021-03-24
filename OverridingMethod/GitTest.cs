@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OverridingMethod
 {
-    class GitTest
+    public class GitTest
     {
+        // Hi There
     }
 }
